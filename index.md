@@ -7,7 +7,13 @@
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+
 ## Section 3
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+## Section 4
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
